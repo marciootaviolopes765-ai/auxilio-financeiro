@@ -1,0 +1,5 @@
+Mercado;1000
+luz;180
+Celular;230
+agua;3000
+Gas;30
